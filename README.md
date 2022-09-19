@@ -1,1 +1,1 @@
-# goit-js-hw-08
+# My Parcel template (A.V.)
